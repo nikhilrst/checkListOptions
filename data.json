@@ -1,0 +1,235 @@
+{
+    "message": "success",
+    "data": {
+        "ticketEntryId": 11,
+        "categoryId": 2,
+        "subcategoryId": 6,
+        "subcategoryName": "Monthly Visit",
+        "serviceChecklist": [
+            {
+                "id": 3,
+                "checklistName": "Fan",
+                "iconImage": "FileUpload/0bcc0c45-4fc4-4fe9-b595-ed9ad2b9e2eafan.png",
+                "checklistOptions": [
+                    {
+                        "id": 12,
+                        "optionsName": "Speed issue",
+                        "iconImage": "FileUpload/047df03e-40f2-42a5-891c-9edb35564c0fcar-air-conditioning.png"
+                    },
+                    {
+                        "id": 11,
+                        "optionsName": "Making Noise",
+                        "iconImage": "FileUpload/93ea38c8-84e4-4b94-ac80-d31a3cfa803efan (1).png"
+                    },
+                    {
+                        "id": 10,
+                        "optionsName": "Not working",
+                        "iconImage": "FileUpload/37994e79-427d-4b73-a3d4-cc7eb19dc723fan.png"
+                    },
+                    {
+                        "id": 6,
+                        "optionsName": "aDsadasd",
+                        "iconImage": "FileUpload/d5142c49-2bd3-42a2-8a82-852cf91f66705231720.png"
+                    },
+                    {
+                        "id": 2,
+                        "optionsName": "optioin22",
+                        "iconImage": null
+                    },
+                    {
+                        "id": 1,
+                        "optionsName": "option11",
+                        "iconImage": null
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "checklistName": "AC",
+                "iconImage": "FileUpload/a88df2b2-557c-4952-98ae-17e2a4ae7e801209414.png",
+                "checklistOptions": [
+                    {
+                        "id": 6,
+                        "optionsName": "aDsadasd",
+                        "iconImage": "FileUpload/d5142c49-2bd3-42a2-8a82-852cf91f66705231720.png"
+                    },
+                    {
+                        "id": 5,
+                        "optionsName": "Making Noise",
+                        "iconImage": "FileUpload/6fe01cfb-6a07-4167-a59f-8d03b4a6e41aspeaker.png"
+                    },
+                    {
+                        "id": 4,
+                        "optionsName": "Cooling",
+                        "iconImage": "FileUpload/bd70a490-f2ba-4176-aa83-a40ff3d8956bair-conditioner.png"
+                    },
+                    {
+                        "id": 3,
+                        "optionsName": "Not working",
+                        "iconImage": "FileUpload/f13094c1-4070-4fe4-888c-bdd9222d7e5e173564.png"
+                    },
+                    {
+                        "id": 2,
+                        "optionsName": "optioin22",
+                        "iconImage": null
+                    },
+                    {
+                        "id": 1,
+                        "optionsName": "option11",
+                        "iconImage": null
+                    }
+                ]
+            },
+            {
+                "id": 5,
+                "checklistName": "Led Light",
+                "iconImage": "FileUpload/48099df0-dd1f-43bb-85e8-5fbf5e52b49b735287.png",
+                "checklistOptions": [
+                    {
+                        "id": 16,
+                        "optionsName": "LED Light Flickering",
+                        "iconImage": "FileUpload/465f74b2-e115-453b-9017-6f5ae3756298812121.png"
+                    },
+                    {
+                        "id": 15,
+                        "optionsName": "Light not working",
+                        "iconImage": "FileUpload/af8fdb64-7855-4969-852e-58697d99bbbelight-bulb.png"
+                    },
+                    {
+                        "id": 6,
+                        "optionsName": "aDsadasd",
+                        "iconImage": "FileUpload/d5142c49-2bd3-42a2-8a82-852cf91f66705231720.png"
+                    },
+                    {
+                        "id": 2,
+                        "optionsName": "optioin22",
+                        "iconImage": null
+                    },
+                    {
+                        "id": 1,
+                        "optionsName": "option11",
+                        "iconImage": null
+                    }
+                ]
+            },
+            {
+                "id": 6,
+                "checklistName": "Dustbin",
+                "iconImage": "FileUpload/1048c24c-3454-427a-be12-d41da412c20213590.png",
+                "checklistOptions": [
+                    {
+                        "id": 8,
+                        "optionsName": "Broken",
+                        "iconImage": "FileUpload/5ec107d5-1d25-4b3d-8f80-0f2513be75f0garbage.png"
+                    },
+                    {
+                        "id": 7,
+                        "optionsName": "No Bin bag",
+                        "iconImage": "FileUpload/dd52bfcb-864d-491a-aa15-4b53b60db8cb51VYp68zAbL._SX466_.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "optionsName": "optioin22",
+                        "iconImage": null
+                    },
+                    {
+                        "id": 1,
+                        "optionsName": "option11",
+                        "iconImage": null
+                    }
+                ]
+            },
+            {
+                "id": 7,
+                "checklistName": "false ceiling",
+                "iconImage": "FileUpload/a30203f2-2a1e-4a6f-bd28-dbd1ff54b3a8grid-false-ceiling.jpg",
+                "checklistOptions": [
+                    {
+                        "id": 9,
+                        "optionsName": "Broken",
+                        "iconImage": "FileUpload/bb1c051d-93ad-4aa1-9970-7af07350f199crack.png"
+                    },
+                    {
+                        "id": 6,
+                        "optionsName": "aDsadasd",
+                        "iconImage": "FileUpload/d5142c49-2bd3-42a2-8a82-852cf91f66705231720.png"
+                    },
+                    {
+                        "id": 2,
+                        "optionsName": "optioin22",
+                        "iconImage": null
+                    },
+                    {
+                        "id": 1,
+                        "optionsName": "option11",
+                        "iconImage": null
+                    }
+                ]
+            },
+            {
+                "id": 8,
+                "checklistName": "Main Door",
+                "iconImage": "FileUpload/374a9229-6ef4-4fcd-ae18-ce4a88f651f432533.png",
+                "checklistOptions": [
+                    {
+                        "id": 18,
+                        "optionsName": "Main door jam",
+                        "iconImage": "FileUpload/3e8aa62e-c4fe-4132-b30e-68a5ccb4b7b939938.png"
+                    },
+                    {
+                        "id": 17,
+                        "optionsName": "Door Glass Broken",
+                        "iconImage": "FileUpload/22277b9b-9ac9-4c4d-a6c5-d2f15b306d6099561.png"
+                    },
+                    {
+                        "id": 6,
+                        "optionsName": "aDsadasd",
+                        "iconImage": "FileUpload/d5142c49-2bd3-42a2-8a82-852cf91f66705231720.png"
+                    },
+                    {
+                        "id": 2,
+                        "optionsName": "optioin22",
+                        "iconImage": null
+                    },
+                    {
+                        "id": 1,
+                        "optionsName": "option11",
+                        "iconImage": null
+                    }
+                ]
+            },
+            {
+                "id": 9,
+                "checklistName": "Inner Door",
+                "iconImage": "FileUpload/345a9e46-a3ff-457e-8c1e-57dc020a0a061209279.png",
+                "checklistOptions": [
+                    {
+                        "id": 14,
+                        "optionsName": "Door lock issue",
+                        "iconImage": "FileUpload/2ed48cc9-5f0a-4a4f-9ac8-9398148d9604door.png"
+                    },
+                    {
+                        "id": 13,
+                        "optionsName": "Not Opening",
+                        "iconImage": "FileUpload/44fc311e-33b5-416a-a5ff-ca65c73c2461exit.png"
+                    },
+                    {
+                        "id": 6,
+                        "optionsName": "aDsadasd",
+                        "iconImage": "FileUpload/d5142c49-2bd3-42a2-8a82-852cf91f66705231720.png"
+                    },
+                    {
+                        "id": 2,
+                        "optionsName": "optioin22",
+                        "iconImage": null
+                    },
+                    {
+                        "id": 1,
+                        "optionsName": "option11",
+                        "iconImage": null
+                    }
+                ]
+            }
+        ]
+    }
+}
